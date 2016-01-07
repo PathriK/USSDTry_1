@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">USSDTry_1</string>
+    <string name="accessibility_service_description">USSD Reader</string>
 </resources>
